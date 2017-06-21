@@ -16,15 +16,15 @@ Mendix 7.2
 Place the widget in the context of an object that has a value attribute.
 
 The value attribute specified in the `General` tab is optional. If not set, a static value should be specified.
-![1](../../blob/v1.1.1/assets/General.png)
-![1](/assets/Display.png)
-![1](/v1.1.1/assets/Events.png)
+![Settings general](../../blob/v1.1.1/assets/General.png)
+![settings display](assets/Display.png)
+![settings event](/assets/Events.png)
 
 ## Demo project
 
 [https://badge.mxapps.io/](https://badge.mxapps.io/)
 
-![1](/v1.1.1/assets/demo.png)
+![1](assets/demo.png)
 
 ## Issues, suggestions and feature requests
 
